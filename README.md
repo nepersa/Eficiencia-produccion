@@ -1,5 +1,5 @@
 # Eficiencia-produccion
-# 🏭 Proyecto: Análisis de Eficiencia en Producción
+# 🏭 Proyecto: Análisis de Eficiencia en Producción (EN CONSTRUCCIÓN)
 
 Este proyecto simula un entorno real de manufactura para analizar la eficiencia operativa de diferentes líneas de producción durante un período de tres meses. El objetivo principal es identificar oportunidades de mejora mediante el uso de análisis de datos y visualizaciones interactivas.
 
